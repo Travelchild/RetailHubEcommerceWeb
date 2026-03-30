@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#334155"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="600" fill="url(#g)"/>
+  <rect x="250" y="140" width="400" height="260" rx="18" fill="#475569"/>
+  <circle cx="390" cy="270" r="55" fill="#94a3b8"/>
+  <polyline points="500,310 560,245 620,320" fill="none" stroke="#94a3b8" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="450" y="560" text-anchor="middle" font-size="44" fill="#e2e8f0" font-family="Segoe UI, Arial" font-weight="700">Product Image</text>
+</svg>

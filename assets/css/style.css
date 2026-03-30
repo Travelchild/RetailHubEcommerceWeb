@@ -1,0 +1,6 @@
+
+.dropzone-upload.dropzone-active {
+    border-color: rgb(99 102 241);
+    background: linear-gradient(180deg, rgb(238 242 255), rgb(224 231 255));
+    box-shadow: 0 8px 24px rgba(79, 70, 229, 0.12);
+}

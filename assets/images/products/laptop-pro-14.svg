@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="600" fill="url(#g)"/>
+  <rect x="170" y="120" width="560" height="310" rx="16" fill="#cbd5e1"/>
+  <rect x="195" y="145" width="510" height="245" rx="8" fill="#0f172a"/>
+  <rect x="130" y="430" width="640" height="30" rx="10" fill="#94a3b8"/>
+  <text x="450" y="560" text-anchor="middle" font-size="44" fill="#ffffff" font-family="Segoe UI, Arial" font-weight="700">Laptop Pro 14</text>
+</svg>
